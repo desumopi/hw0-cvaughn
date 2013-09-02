@@ -1,6 +1,5 @@
 import java.io.StringReader;
 
-import edu.stanford.nlp.*;
 import edu.stanford.nlp.process.PTBTokenizer.PTBTokenizerFactory;
 import edu.stanford.nlp.process.Tokenizer;
 import edu.stanford.nlp.ling.Word;
